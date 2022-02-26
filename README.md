@@ -16,8 +16,8 @@
 
 ## About The Author
 
-* I'm Evan. I am a 11-year-old student. I love programming, and my father teaches me Python and C++. I write this programme because I want to mamage my acconts and passwords. 
+* I'm Evan. I am a 11-year-old student. I love programming, and my father teaches me Python and C++. I write this program because I want to mamage my acconts and passwords. 
   * If you want to talk to me, here is my e-mail:
   yf.yan@icloud.com
 * 
-* Welcome you joining in!
+Welcome to joining in!
