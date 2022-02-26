@@ -1,3 +1,5 @@
+import os
+
 def main():
     menu = """Please choose what you want to do:
 1) query account / password
@@ -7,6 +9,7 @@ def main():
     while True:
         print(menu)
         n = int(input())
+        os.system('cls')
         if n == 1:
             print("Please input the key.")
             key = input()
