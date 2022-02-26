@@ -14,6 +14,8 @@
   * the addition and query of the account/password
   * use a main password to ensure password security
 
+![flowcharts](PasswordManager.png)
+
 ## About The Author
 
 * I'm Evan, an 11 year old student. I love programming, and my father teaches me Python and C++. I am writing this program because I want to manage my accounts and passwords.
