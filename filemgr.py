@@ -10,8 +10,13 @@ def open_db() -> bool:
                     print("Password is correct!")
                     return True
                 else:
-                    print("Password incorrect!")
-                    return False
+                    mp = input("Please try the second time: ")
+                    if mp == content[0]:
+                        print("Password is correct!")
+                        return True
+                    else:
+                        print("Password incorrect!")
+                        return False
             else:
                 raise Exception("master password does not exist!")
     except:
