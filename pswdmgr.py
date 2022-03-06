@@ -1,4 +1,5 @@
 import os
+import filemgr
 
 def main():
     menu = """Please choose what you want to do:
@@ -50,4 +51,6 @@ def main():
             os.system('cls')
 
 if __name__ == '__main__':
-    main()
+    # main()
+    # pass
+    filemgr.test_print()
